@@ -1,0 +1,14 @@
+.itemCount-button{
+    border: solid black;
+    background-color: aqua;
+    border-radius: 7px;
+    
+}
+
+.itemCount-button:hover{
+    background-color: cadetblue;
+}
+
+.item-count{
+    margin: 5px;
+}

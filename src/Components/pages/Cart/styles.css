@@ -1,0 +1,29 @@
+.item-cart{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding:20px
+}
+
+.cart-titulos{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.container-button{
+    display: flex;
+    justify-content: center;
+}
+
+.btn-cart:hover{
+    background-color: cadetblue;
+}
+
+.btn-vaciar{
+    border: solid black;
+    background-color: aqua;
+    border-radius: 7px;
+
+}
