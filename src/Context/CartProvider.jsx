@@ -13,6 +13,12 @@ const CartProvider = ({ children }) => {
         setProductsCart([])
     }
 
+    // const removeItem = (id) => {
+    //     setProductsCart(productsCart.filter((product) => product.id !== id))
+
+    // }
+
+
     useEffect(() => {
         setProductQuantity(
             productsCart.reduce((acc, productsCart) => acc + productsCart.quantity, 0), 0
@@ -20,7 +26,7 @@ const CartProvider = ({ children }) => {
     }, [productsCart]);
 
     return (
-        <CartContext.Provider value={{ productsCart, addItem, productQuantity, clear }}>
+        <CartContext.Provider value={{ productsCart, addItem, productQuantity, clear}}>
             {children}
         </CartContext.Provider>
     );

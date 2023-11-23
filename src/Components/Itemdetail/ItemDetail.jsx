@@ -11,7 +11,7 @@ const ItemDetail = ({ itemSelect }) => {
         navigate('/cart')
     };
 
-    const {addItem} = useContext(CartContext)
+    const { addItem } = useContext(CartContext)
     const addItemCart = () => {
         addItem(itemSelect, count)
     }
@@ -22,11 +22,15 @@ const ItemDetail = ({ itemSelect }) => {
             <img className="detail-image" src={itemSelect?.image} alt={itemSelect?.title} />
 
             <p>{itemSelect?.description}</p>
-            <p className="price">${itemSelect?.price}</p>
-            <p className="p">Stock: {itemSelect?.stock}</p>
-            <button className="card-button" onClick={addItemCart}>Guardar en carrito</button>
-            <button className="card-button" onClick={handleNavigation}>Finalizar compra</button>
-            <ItemCount count={count} setCount={setCount} stock={itemSelect.stock} />
+            <p className="price">Precio: ${itemSelect?.price}</p>
+            <p className="stock">Stock: {itemSelect?.stock}</p>
+            <div className="container-btn">
+                <button className="card-button" onClick={addItemCart}>Guardar en carrito</button>
+                <button className="card-button" onClick={handleNavigation}>Finalizar compra</button>
+            </div>
+            <div className="card-count">
+                <ItemCount count={count} setCount={setCount} stock={itemSelect.stock} />
+            </div>
         </div>
     );
 };
