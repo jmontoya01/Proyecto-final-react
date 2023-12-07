@@ -1,7 +1,7 @@
 .item-cart{
     display: flex;
-    flex-direction: row;
     text-align: center;
+    justify-content: center;
     flex-wrap: wrap;
     gap: 10px;
     padding:20px
@@ -26,4 +26,27 @@
     background-color: aqua;
     border-radius: 7px;
 
+}
+
+.btn-vaciar:hover{
+    background-color: cadetblue;
+}
+
+
+
+.terminarCompra{
+    border: solid black;
+    background-color: aqua;
+    border-radius: 7px;
+}
+
+.terminarCompra:hover{
+    background-color: cadetblue;
+    text-align: center;
+}
+
+.container-button-finalizarC{
+    display: flex;
+    justify-content:center;
+    padding: 20px;
 }

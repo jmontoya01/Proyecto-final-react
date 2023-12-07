@@ -1,71 +1,44 @@
-# Getting Started with Create React App
+# Bienvenido a Makers M 3D
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Descubre la Magia de la Impresión 3D
 
-## Available Scripts
+En Makers M 3D, te ofrecemos una amplia gama de productos únicos y personalizados impresos en 3D. Cada artículo es creado con precisión y cuidado. ¡Explora nuestra colección y lleva la magia de la impresión 3D a tu vida!
 
-In the project directory, you can run:
+## Catálogo de Productos
 
-### `npm start`
+Dentro de nuestro catálogo tenemos:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Espadas
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Desarrollamos diferentes tipos de espadas de tus animes favoritos
+  
 
-### `npm test`
+### Figuras de acción
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+El más completo catálogo de figuras de acción de los animes más populares o de tu serie favorita
 
-### `npm run build`
+### Llaveros
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Gran variedad de llaveros de todo tipo, diseños innovadores, potencia tu marca con llaveros personalizados.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Soportes
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Tenemos los mejores soportes del mercado para tus diademas, nuevos diseños retro iluminado, diferentes opciones en diseños y colores.
 
-### `npm run eject`
+## Cómo Comprar
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. **Selecciona tu Producto**: Explora nuestro catálogo y elige los productos que te encanten.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2. **Añade al Carrito**: Haz clic en "Añadir al Carrito" para seleccionar los productos que deseas comprar.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+3. **Revisa tu Carrito**: Ve a tu carrito de compras, revisa tus productos y procede al pago.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+4. **Realiza el Pago**: Completa tu compra proporcionando la información necesaria y selecciona tu método de pago preferido.
 
-## Learn More
+5. **Envío Rápido**: Nos encargaremos del resto. ¡Recibirás tus productos impresos en 3D directamente en tu puerta!
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contacto
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Si tienes alguna pregunta o solicitud especial, no dudes en contactarnos a través de makersm3d@gmail.com o +57301585787. Estamos aquí para hacer que tu experiencia de compra sea excepcional.
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Proyecto-final-react
+¡Gracias por elegir Makers M 3D para tus necesidades de impresión 3D!

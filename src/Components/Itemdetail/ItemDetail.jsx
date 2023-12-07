@@ -26,7 +26,7 @@ const ItemDetail = ({ itemSelect }) => {
             <p className="stock">Stock: {itemSelect?.stock}</p>
             <div className="container-btn">
                 <button className="card-button" onClick={addItemCart}>Guardar en carrito</button>
-                <button className="card-button" onClick={handleNavigation}>Finalizar compra</button>
+                <button className="card-button" onClick={handleNavigation}>Ir al carrito</button>
             </div>
             <div className="card-count">
                 <ItemCount count={count} setCount={setCount} stock={itemSelect.stock} />
